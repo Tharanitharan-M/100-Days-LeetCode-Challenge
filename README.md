@@ -13,4 +13,4 @@ Check out my [LeetCode profile](https://leetcode.com/Tharanitharan-M/) to see th
 <br>
 <br>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Tharanitharan-M)(https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tharanitharan-M&theme=dark&hide_border=true&hide_total_contributions=true)](https://git.io/streak-stats)
